@@ -1,0 +1,55 @@
+C:\Users\сергеевд\Desktop\Barcode\Barcode\obj\Debug\Barcode.csprojAssemblyReference.cache
+C:\Users\сергеевд\Desktop\Barcode\Barcode\obj\Debug\AuthWindow.g.cs
+C:\Users\сергеевд\Desktop\Barcode\Barcode\obj\Debug\App.g.cs
+C:\Users\сергеевд\Desktop\Barcode\Barcode\obj\Debug\Barcode_MarkupCompile.cache
+C:\Users\сергеевд\Desktop\Barcode\Barcode\obj\Debug\Barcode_MarkupCompile.lref
+C:\Users\сергеевд\Desktop\Barcode\Barcode\bin\Debug\Barcode.exe.config
+C:\Users\сергеевд\Desktop\Barcode\Barcode\bin\Debug\Barcode.exe
+C:\Users\сергеевд\Desktop\Barcode\Barcode\bin\Debug\Barcode.pdb
+C:\Users\сергеевд\Desktop\Barcode\Barcode\bin\Debug\MaterialDesignColors.dll
+C:\Users\сергеевд\Desktop\Barcode\Barcode\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\сергеевд\Desktop\Barcode\Barcode\bin\Debug\MaterialDesignColors.pdb
+C:\Users\сергеевд\Desktop\Barcode\Barcode\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\сергеевд\Desktop\Barcode\Barcode\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\сергеевд\Desktop\Barcode\Barcode\obj\Debug\App.baml
+C:\Users\сергеевд\Desktop\Barcode\Barcode\obj\Debug\AuthWindow.baml
+C:\Users\сергеевд\Desktop\Barcode\Barcode\obj\Debug\Barcode.g.resources
+C:\Users\сергеевд\Desktop\Barcode\Barcode\obj\Debug\Barcode.Properties.Resources.resources
+C:\Users\сергеевд\Desktop\Barcode\Barcode\obj\Debug\Barcode.csproj.GenerateResource.cache
+C:\Users\сергеевд\Desktop\Barcode\Barcode\obj\Debug\Barcode.csproj.CoreCompileInputs.cache
+C:\Users\сергеевд\Desktop\Barcode\Barcode\obj\Debug\Barcode.csproj.CopyComplete
+C:\Users\сергеевд\Desktop\Barcode\Barcode\obj\Debug\Barcode.exe
+C:\Users\сергеевд\Desktop\Barcode\Barcode\obj\Debug\Barcode.pdb
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\bin\Debug\Barcode.exe.config
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\bin\Debug\Barcode.exe
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\bin\Debug\Barcode.pdb
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\bin\Debug\MaterialDesignColors.dll
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\bin\Debug\MaterialDesignColors.pdb
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\obj\Debug\Barcode.csprojAssemblyReference.cache
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\obj\Debug\AuthWindow.g.cs
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\obj\Debug\App.g.cs
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\obj\Debug\Barcode_MarkupCompile.cache
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\obj\Debug\Barcode_MarkupCompile.lref
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\obj\Debug\App.baml
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\obj\Debug\AuthWindow.baml
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\obj\Debug\Barcode.g.resources
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\obj\Debug\Barcode.Properties.Resources.resources
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\obj\Debug\Barcode.csproj.GenerateResource.cache
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\obj\Debug\Barcode.csproj.CoreCompileInputs.cache
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\obj\Debug\Barcode.csproj.CopyComplete
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\obj\Debug\Barcode.exe
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\obj\Debug\Barcode.pdb
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\obj\Debug\AdminWindow.g.cs
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\obj\Debug\UserWindow.g.cs
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\obj\Debug\AdminWindow.baml
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\obj\Debug\UserWindow.baml
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\bin\Debug\EntityFramework.dll
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\bin\Debug\EntityFramework.xml
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\obj\Debug\Barcode_Content.g.cs
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\USERPC\Desktop\Практика (Barcode)\Barcode\Barcode\bin\Debug\ru\EntityFramework.resources.dll
